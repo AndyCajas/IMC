@@ -46,9 +46,6 @@ class Navgador : AppCompatActivity() {
 
             // Cargar la URL en WebView
             webView.loadUrl(url)
-        } else {
-            // Puedes agregar un manejo alternativo si el valor está vacío
-            Toast.makeText(this, "Valor no válido", Toast.LENGTH_SHORT).show()
         }
 
         // Verificar si el valor obtenido no está vacío
@@ -58,9 +55,6 @@ class Navgador : AppCompatActivity() {
 
             // Cargar la URL en WebView
             webView.loadUrl(url)
-        } else {
-            // Puedes agregar un manejo alternativo si el valor está vacío
-            Toast.makeText(this, "Valor no válido", Toast.LENGTH_SHORT).show()
         }
 
 
