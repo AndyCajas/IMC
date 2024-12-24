@@ -16,4 +16,4 @@
     <li>Funcionalidad 1</li>
 </ul>
 <h2>descarga la app</h2>
-<a href=""></a>
+<a href="imagenes/IMC.apk">app IMC</a>
