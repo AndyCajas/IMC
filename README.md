@@ -1,5 +1,5 @@
 >[!TIP]
-><h1>AL💻</h1>
+><h1>CALCULO DEL INDICE DE MASA CORPORAL💻</h1>
 
 >[!NOTE]   
 > <p>Esta aplicación Android, desarrollada utilizando Android Studio, ofrece una calculadora de IMC 📱precisa y fácil de usar. Los usuarios introducen su <b>peso en kilogramos </b> y altura en metros, y la app calcula automáticamente el IMC. Además, proporciona una interpretación clara del resultado, indicando si el peso está dentro de los <i>rangos saludables</i>, si hay sobrepeso u obesidad, o si existe bajo peso..</p>
