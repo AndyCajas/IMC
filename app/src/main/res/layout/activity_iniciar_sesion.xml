@@ -44,7 +44,7 @@
             android:layout_height="wrap_content">
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/nombreUsuarioCuenta"
-                android:hint="Ingrese su nombre"
+                android:hint="Ingrese su correo electronico"
                 android:textColorHint="@color/white"
                 android:maxLines="1"
                 android:singleLine="true"
