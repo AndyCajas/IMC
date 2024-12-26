@@ -38,7 +38,7 @@
 
     
 >[!IMPORTANT]
-> <h2>descarga la app 📱</h2>
+> <h2>Aplicación</h2>
 
 
-<a href="imagenes/IMC.apk">app IMC</a>
+<p>descarga la app 📱👉<a href="imagenes/app_IMC.apk">aqui</a>👈</p>
